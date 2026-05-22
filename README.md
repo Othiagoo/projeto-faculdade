@@ -1,2 +1,8 @@
-# projeto-faculdade
-Projeto inicial de Ciência de Dados
+# Projeto Faculdade
+
+Repositório criado para atividades acadêmicas relacionadas ao curso de Ciência de Dados.
+
+## Objetivos
+- Organizar estudos
+- Registrar aprendizado
+- Desenvolver projetos simples
